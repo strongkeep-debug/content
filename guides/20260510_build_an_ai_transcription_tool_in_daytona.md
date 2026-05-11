@@ -29,6 +29,8 @@ The goal is broader than "run this one repo." You will learn a pattern for build
 
 Sapat has a simple pipeline that is useful for understanding AI product prototypes:
 
+![Sapat transcription workflow in a Daytona workspace](assets/20260510_sapat_transcription_workflow.svg)
+
 ```text
 video file or folder
         |
